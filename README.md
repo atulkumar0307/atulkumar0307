@@ -54,8 +54,8 @@ I am a <b>Full Stack Web Developer</b> <img src="https://media.giphy.com/media/W
 ### :fire: My Stats :
 
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=atulkumar0307&theme=dark&background=000000" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkumar0307&layout=compact&theme=vision-friendly-dark" width="450" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=atulkumar0307&theme=dark&background=000000" width="500" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkumar0307&layout=compact&theme=vision-friendly-dark" width="500" />
 </p>
 
 
