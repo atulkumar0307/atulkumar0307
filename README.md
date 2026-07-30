@@ -12,7 +12,7 @@ I enjoy designing scalable backend systems, building secure REST APIs, optimizin
 - ⚙️ **Common Backend** – Production-ready Express.js starter
 - 📚 Daily **Data Structures & Algorithms**
 - ☁️ Learning **System Design, Cloud Technologies & Distributed Systems**
-- 🤖 Pursuing **MCA (Agentic AI Specialization)**
+- 🤖 Pursuing **MCA (Cloud Computing Specialization)**
 
 ---
 
