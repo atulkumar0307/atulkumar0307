@@ -54,49 +54,48 @@ I enjoy designing scalable backend systems, building secure REST APIs, optimizin
 
 ### 🔔 NotifyHub
 
-A scalable notification platform supporting **in-app, email, push, and real-time notifications** using **Node.js, PostgreSQL, Redis, BullMQ, Socket.IO, and Firebase Cloud Messaging (FCM)**.
+A scalable notification platform supporting **In-App, Email, Push, and Real-Time Notifications**.
+
+**Tech Stack**
+- Node.js
+- Express.js
+- PostgreSQL
+- Redis
+- BullMQ
+- Socket.IO
+- Firebase Cloud Messaging (FCM)
 
 **Key Features**
-- Multi-channel notification delivery
-- Background job processing with BullMQ
-- Retry mechanism & dead-letter queue
-- Notification preferences
+- Multi-channel notifications
+- Background job processing
+- Retry mechanism & Dead Letter Queue
 - Scheduled notifications
-- Real-time delivery using Socket.IO
+- Notification preferences
+- Real-time delivery
+- Scalable architecture
 
 ---
 
 ### ⚙️ Common Backend
 
-A production-ready **Express.js boilerplate** featuring:
+A production-ready Express.js boilerplate featuring:
 
-- JWT Authentication & Authorization
-- Role-Based Access Control (RBAC)
+- JWT Authentication
+- Refresh Token Authentication
+- Role-Based Authorization (RBAC)
 - Razorpay Integration
 - Redis Integration
 - REST API Best Practices
-- Centralized Error Handling
-- Logging & Security Middleware
-- Clean & Scalable Project Architecture
+- Global Error Handling
+- Logging
+- Security Middleware
+- Clean & Scalable Folder Structure
 
 ---
 
 ### 🌐 Portfolio
 
-A personal portfolio showcasing my experience, projects, technical skills, and professional journey.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atulkumar0307&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkumar0307&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=atulkumar0307&theme=github-dark&hide_border=true"/>
-</p>
+A personal portfolio showcasing my projects, technical skills, experience, and professional journey.
 
 ---
 
@@ -105,19 +104,35 @@ A personal portfolio showcasing my experience, projects, technical skills, and p
 - System Design
 - Distributed Systems
 - Cloud Computing
-- Docker & Containerization
+- Docker
 - Database Optimization
 - Scalable Backend Architecture
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atulkumar0307&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkumar0307&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atulkumar0307&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
-📧 **Email:** <a href="mailto:atulkumar030303@gmail.com">atulkumar030303@gmail.com</a>
+📧 **Email**  
+**atulkumar030303@gmail.com**
 
-💼 **LinkedIn:** https://linkedin.com/in/atulkumar0307
+💼 **LinkedIn**  
+https://linkedin.com/in/atulkumar0307
 
-🌐 **Portfolio:** https://atulkumar0307.github.io/My-Portfolio/
+🌐 **Portfolio**  
+https://atulkumar0307.github.io/My-Portfolio/
 
 ---
 
