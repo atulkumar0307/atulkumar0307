@@ -1,20 +1,17 @@
 # Hi, I'm Atul Kumar 👋
 
-**Backend-Focused Full Stack Developer** with nearly **2 years of experience** building production-grade web applications using **Node.js, Express.js, MongoDB, PostgreSQL, Redis, and React**.
-
+**Backend-Focused Full Stack Developer** with nearly **2 years of experience** building production web applications.
 I enjoy designing scalable backend systems, building secure REST APIs, optimizing databases, and deploying applications to production. While my primary focus is backend engineering, I also contribute across the full stack when required.
-
-![](https://komarev.com/ghpvc/?username=atulkumar0307&style=flat-square)
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔔 **NotifyHub** – Scalable Multi-Channel Notification Platform
-- ⚙️ **Common Backend** – Production-ready Express.js Boilerplate
-- 📚 Practicing **Data Structures & Algorithms**
+- 🔔 **NotifyHub** – Multi-Channel Notification Platform
+- ⚙️ **Common Backend** – Production-ready Express.js starter
+- 📚 Daily **Data Structures & Algorithms**
 - ☁️ Learning **System Design, Cloud Technologies & Distributed Systems**
-- 🎓 Pursuing **MCA (Cloud Computing Specialization)**
+- ☁️ Pursuing **MCA (Cloud Computing Specialization)**
 
 ---
 
@@ -54,85 +51,33 @@ I enjoy designing scalable backend systems, building secure REST APIs, optimizin
 
 ### 🔔 NotifyHub
 
-A scalable notification platform supporting **In-App, Email, Push, and Real-Time Notifications**.
-
-**Tech Stack**
-- Node.js
-- Express.js
-- PostgreSQL
-- Redis
-- BullMQ
-- Socket.IO
-- Firebase Cloud Messaging (FCM)
-
-**Key Features**
-- Multi-channel notifications
-- Background job processing
-- Retry mechanism & Dead Letter Queue
-- Scheduled notifications
-- Notification preferences
-- Real-time delivery
-- Scalable architecture
-
----
+Scalable multi-channel notification platform using **Node.js, PostgreSQL, Redis, BullMQ, Socket.IO and Firebase Cloud Messaging**.
 
 ### ⚙️ Common Backend
 
-A production-ready Express.js boilerplate featuring:
-
-- JWT Authentication
-- Refresh Token Authentication
-- Role-Based Authorization (RBAC)
-- Razorpay Integration
-- Redis Integration
-- REST API Best Practices
-- Global Error Handling
-- Logging
-- Security Middleware
-- Clean & Scalable Folder Structure
-
----
+Production-ready Express.js starter featuring authentication, JWT, Razorpay integration, reusable architecture, and best practices.
 
 ### 🌐 Portfolio
 
-A personal portfolio showcasing my projects, technical skills, experience, and professional journey.
+Personal portfolio showcasing my experience, projects, and technical skills.
 
 ---
 
-## 🌱 Currently Learning
-
-- System Design
-- Distributed Systems
-- Cloud Computing
-- Docker
-- Database Optimization
-- Scalable Backend Architecture
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atulkumar0307&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkumar0307&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atulkumar0307&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atulkumar0307&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **Email**  
-**atulkumar030303@gmail.com**
+📧 **Email:** atulkumar030303@gmail.com
 
-💼 **LinkedIn**  
-https://linkedin.com/in/atulkumar0307
+💼 **LinkedIn:** https://linkedin.com/in/atulkumar0307
 
-🌐 **Portfolio**  
-https://atulkumar0307.github.io/My-Portfolio/
+🌐 **Portfolio:** https://atulkumar0307.github.io/My-Portfolio/
 
 ---
 
