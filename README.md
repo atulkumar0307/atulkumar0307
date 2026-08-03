@@ -66,7 +66,7 @@ Personal portfolio showcasing my experience, projects, and technical skills.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulkumar0307&theme=github-dark&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=atulkumar0307&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
